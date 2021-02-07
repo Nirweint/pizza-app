@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "./components/Button/Button";
 
 import Header from "./components/Button/Header/Header";
 
@@ -7,8 +6,6 @@ function App() {
     return (
         <div className="wrapper">
             <Header/>
-			<Button outline={true}>Кнопка</Button>
-            <Button>Nothing</Button>
             <div className="content">
                 <div className="container">
                     <div className="content__top">
