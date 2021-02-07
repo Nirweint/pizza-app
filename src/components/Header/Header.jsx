@@ -1,7 +1,7 @@
 import React from "react";
 
-import pizzaLogo from "../../../assets/img/pizza-logo.svg";
-import Button from "../Button";
+import pizzaLogo from "../../assets/img/pizza-logo.svg";
+import Button from "../Button/Button";
 
 const Header = () => {
     return (
